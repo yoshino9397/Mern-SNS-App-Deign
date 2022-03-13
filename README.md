@@ -1,1 +1,4 @@
-# Mern-SNS-App-Deign
+# MERN Project
+## Social Media App
+
+### UI

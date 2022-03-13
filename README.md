@@ -1,4 +1,4 @@
 # MERN Project
 ## Social Media App
 
-### UI
+### UI design

@@ -11,7 +11,7 @@ import { IoSchool } from "react-icons/io5";
 import { Users } from "../../dummyData";
 import CloseFriend from "../closeFriend/CloseFriend";
 
-export default function Sidebar() {
+const Sidebar=()=> {
   return (
     <div className="sidebar">
       <div className="sidebarWrapper">
@@ -64,3 +64,5 @@ export default function Sidebar() {
     </div>
   );
 }
+
+export default Sidebar;

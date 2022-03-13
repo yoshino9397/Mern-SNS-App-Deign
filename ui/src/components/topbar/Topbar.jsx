@@ -1,4 +1,3 @@
-import React from "react";
 import "../topbar/topbar.css";
 import SearchIcon from "@mui/icons-material/Search";
 import PersonIcon from "@mui/icons-material/Person";
